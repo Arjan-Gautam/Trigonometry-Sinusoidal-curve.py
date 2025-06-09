@@ -11,3 +11,8 @@ Install the required Python packages:
 
 pip install matplotlib numpy
 #Github
+#Output 
+📸 Output
+
+![Sine Curve] Screenshot_20250609-194628_Pydroid 3
+
